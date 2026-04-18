@@ -2,9 +2,7 @@
 Repositorio que cuenta con la información del Proyecto Grupal, como las bases de datos y la justifición
 
 Integrantes: 
-Kevin Villarreal Urquizo (20171967)
-Carlos Crespín (20203563)
-Christian Silvera (20192528)
+Patricia Alexandra Carrasco Mejía
 
 Variable dependiente: Número de protestas por año en cada país. Esta investigación tiene por objetivo explicar las variables que influyen, a nivel estadístico, en el número de protestas sociales que ocurren en cada país. Esto se debe a la relativa escasez de trabajos que aborden dicha problemática.
 
